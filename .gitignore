@@ -1,0 +1,8 @@
+core.Microsoft*
+core.mongo*
+core.python*
+__pycache__/
+*.py[cod]
+Lib/
+pyvenv.cfg
+Scripts/
