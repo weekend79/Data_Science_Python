@@ -5,7 +5,7 @@ from matplotlib import style
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-df = pd.read_csv(r'C:\Users\EntroBet\Desktop\Leading_Causes_of_Death.csv')
+df = pd.read_csv(r'C:\Users\morte\Desktop\ADANIPORTS.csv')
 
 print(df.head())
 
